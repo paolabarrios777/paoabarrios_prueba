@@ -1,0 +1,15 @@
+/workspaces/paoabarrios_prueba/probado/bin/Debug/net10.0/probado
+/workspaces/paoabarrios_prueba/probado/bin/Debug/net10.0/probado.deps.json
+/workspaces/paoabarrios_prueba/probado/bin/Debug/net10.0/probado.runtimeconfig.json
+/workspaces/paoabarrios_prueba/probado/bin/Debug/net10.0/probado.dll
+/workspaces/paoabarrios_prueba/probado/bin/Debug/net10.0/probado.pdb
+/workspaces/paoabarrios_prueba/probado/obj/Debug/net10.0/probado.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/paoabarrios_prueba/probado/obj/Debug/net10.0/probado.AssemblyInfoInputs.cache
+/workspaces/paoabarrios_prueba/probado/obj/Debug/net10.0/probado.AssemblyInfo.cs
+/workspaces/paoabarrios_prueba/probado/obj/Debug/net10.0/probado.csproj.CoreCompileInputs.cache
+/workspaces/paoabarrios_prueba/probado/obj/Debug/net10.0/probado.sourcelink.json
+/workspaces/paoabarrios_prueba/probado/obj/Debug/net10.0/probado.dll
+/workspaces/paoabarrios_prueba/probado/obj/Debug/net10.0/refint/probado.dll
+/workspaces/paoabarrios_prueba/probado/obj/Debug/net10.0/probado.pdb
+/workspaces/paoabarrios_prueba/probado/obj/Debug/net10.0/probado.genruntimeconfig.cache
+/workspaces/paoabarrios_prueba/probado/obj/Debug/net10.0/ref/probado.dll
